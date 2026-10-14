@@ -1,3 +1,5 @@
+![Mustapha Elouardi](./banner.svg)
+
 # Mustapha Elouardi
 
 **Operations & procurement · Building ERP, automation and AI tools**
