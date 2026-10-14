@@ -1,15 +1,30 @@
+# Mustapha Elouardi
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ElouardiMusta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mstphwardi@gmail.com) 
+**Operations & procurement · Building ERP, automation and AI tools**
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mustaphaelou&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mustaphaelou&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustaphaelou&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I work in procurement and operations, and I build practical software to solve real operational problems — stock and ERP systems, approval workflows, e-commerce, and automation.
+
+- 🔭 Currently: procurement & operations for public-lighting projects, plus the internal tooling around them
+- 🧰 Tech: TypeScript · Next.js · React · Node.js · Python · Prisma · PostgreSQL · Redis · Docker · Cloudflare
+- 🌍 Based in Rabat, Morocco
+- 🐦 X: [@ElouardiMusta](https://x.com/ElouardiMusta)
+- 📫 Email: [mstphwardi@gmail.com](mailto:mstphwardi@gmail.com)
+
+## Featured projects
+
+| Project | Description |
+|---|---|
+| [**gestionstockapp**](https://github.com/mustaphaelou/gestionstockapp) | Francophone ERP for stock, sales, purchases and partners — Next.js, Prisma, PostgreSQL, Redis |
+| [**deplacementapp**](https://github.com/mustaphaelou/deplacementapp) | Multi-stage business-travel request & approval system with RBAC, notifications and PDF export |
+| [**eguidar**](https://github.com/mustaphaelou/eguidar) | Electronics e-commerce storefront + admin panel — Next.js, Prisma, PostgreSQL, Meilisearch |
+| [**job-search**](https://github.com/mustaphaelou/job-search) | AI-powered job-search and application framework |
+| [**containers-template**](https://github.com/mustaphaelou/containers-template) · [**d1-template**](https://github.com/mustaphaelou/d1-template) | Cloudflare starter templates: Containers, and Worker + D1 |
+
+## GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mustaphaelou&show_icons=true&theme=dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustaphaelou&layout=compact&theme=dark&hide_border=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mustaphaelou&icon=10&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>Open to collaboration on ERP, procurement automation and AI tooling.</sub>
